@@ -29,7 +29,7 @@
 <p align="center">
     <a href="https://github.com/hozero95"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
     <a href="https://hozeroa.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6F00?style=flat-square&logo=Telegraph&logoColor=white"/></a>&nbsp;
-    <a href="mailto.the.hozero@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+    <a href="the.hozero@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
