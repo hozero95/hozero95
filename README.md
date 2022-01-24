@@ -32,6 +32,8 @@
     <a href="the.hozero@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 </p>
 
+<br><br><br><br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hozero95&show_icons=true&theme=dark)](https://github.com/hozero95/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
