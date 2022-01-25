@@ -6,6 +6,9 @@
 🌱 I'm Hoyoung Kim, a junior developer. <br>
 🔭 I’m currently working on Web Programming. <br>
 </p>
+
+<br><br>
+
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
@@ -24,8 +27,9 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
 </p>
 
-<h3 align="center">•••</h3>
+<br><br>
 
+<h3 align="center">⭐ Contact Me ! ⭐</h3>
 <p align="center">
     <a href="https://github.com/hozero95"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
     <a href="https://hozeroa.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6F00?style=flat-square&logo=Telegraph&logoColor=white"/></a>&nbsp;
@@ -35,5 +39,5 @@
 <br><br><br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hozero95&show_icons=true)](https://github.com/hozero95/github-readme-stats)
- 
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
