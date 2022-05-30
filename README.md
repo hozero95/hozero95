@@ -3,7 +3,7 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-🌱 I'm Hoyoung Kim, a junior developer. <br>
+🌱 I'm Hoyoung Kim, a Software Engineer. <br>
 🔭 I’m currently working on Web Programming. <br>
 </p>
 
