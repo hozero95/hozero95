@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>&nbsp;
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Azure-007FFF?style=flat-square&logo=Azure&logoColor=white"/>&nbsp;
 </p>
 
